@@ -1,5 +1,8 @@
+import HomePage from "@/pages";
 const App = () => {
-  return <div>안녕하시렵니까</div>;
+  return (
+    <HomePage />
+  )
 }
 
 export default App;

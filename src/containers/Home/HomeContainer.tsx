@@ -1,8 +1,8 @@
 const HomeContainer = () => {
   return (
-    <div>
-      HomeContainer
-    </div>
+    <h1>
+      여기가 메인이다
+    </h1>
   )
 }
 
